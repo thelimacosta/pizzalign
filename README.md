@@ -33,6 +33,7 @@ Você controla a peça apenas enquanto ela está caindo. Utilize o teclado para 
 | `A` / `Seta para Esquerda` | Move a fatia em queda para a esquerda |
 | `D` / `Seta para Direita` | Move a fatia em queda para a direita |
 | `S` / `Seta para Baixo` | Acelera a queda da fatia (*soft drop*) |
+| `M` / `Menu` | Volta ao menu do jogo |
 | `Q` / `ESC` | Sai do jogo |
 
 ## Execução
